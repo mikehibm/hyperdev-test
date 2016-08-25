@@ -33,7 +33,7 @@ app.post("/dreams", function (request, response) {
 // Simple in-memory store for now
 var dreams = [
   "たくさんアプリを作る",
-  "Climb a really tall mountain",
+  "Swim across the Pacific ocean",
   "Wash the clothes"
   ];
 
